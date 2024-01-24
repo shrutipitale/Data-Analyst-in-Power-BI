@@ -14,7 +14,7 @@ ___
 
 | Course No.  | Project |
 | ---		  | ----    |
-| 01		  | [Introduction to Power BI]() 				|
+| 01		  | [Introduction to Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/79a97758cc99df0d724081dbe1f932ccb3030911/01-Introduction-to-Power-BI) 				|
 | 02 		  | [Introduction to DAX in Power BI]() 	|
 | 03 		  | [Data Visualization in Power BI]()		|
 | 05 		  | [Data Preparation in Power BI]() 		|
