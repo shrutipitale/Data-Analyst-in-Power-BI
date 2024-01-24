@@ -15,7 +15,7 @@ ___
 | Course No.  | Project |
 | ---		  | ----    |
 | 01		  | [Introduction to Power BI]() 				|
-| 02 		  | [Introduction to DAX in Power BI]( 	|
+| 02 		  | [Introduction to DAX in Power BI]() 	|
 | 03 		  | [Data Visualization in Power BI]()		|
 | 05 		  | [Data Preparation in Power BI]() 		|
 | 06 		  | [Data Transformation in Power BI]() 																					|
