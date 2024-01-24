@@ -6,5 +6,5 @@ Gain a 360° overview of exploring and using Power BI to build impactful reports
 ![statement-of-accomplishment](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/assets/80112581/f889e2ab-565e-4c37-8f16-270d3925afd4)
 
 **Certificate Statement Of Accomplishment**
-![01-Introduction-to-Power-BI_page-0001]( ![01-Introduction-to-Power-BI_page-0001](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/assets/80112581/668e1b90-8b86-46b8-b712-84f84ea81400)
-)
+![01-Introduction-to-Power-BI_page-0001](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/assets/80112581/4054e262-71e3-4c0a-9315-2691d0f17f23)
+
