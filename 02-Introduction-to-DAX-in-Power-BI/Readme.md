@@ -6,8 +6,7 @@ Start your journey to becoming a DAX master with this introductory course on DAX
 
 **Certificate statement-of-accomplishment**
 
-https://github.com/shrutipitale/Data-Analyst-in-Power-BI/blob/9a36ed7c50bb3a26f64675c8da6af26cb23e815c/02-Introduction-to-DAX-in-Power-BI/02-Introduction-to-DAX-in-Power-BI.jpg
-
+02-Introduction-to-DAX-in-Power-BI/02-Introduction-to-DAX-in-Power-BI.jpg
 
 **statement-of-accomplishment**
 
