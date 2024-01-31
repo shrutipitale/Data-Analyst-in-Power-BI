@@ -17,7 +17,7 @@ ___
 | 01		  | [Introduction to Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/79a97758cc99df0d724081dbe1f932ccb3030911/01-Introduction-to-Power-BI) 				|
 | 02 		  | [Introduction to DAX in Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/ae51e213544b5751d26f65c1f56d6522b84e04e6/02-Introduction-to-DAX-in-Power-BI) 	|
 | 03 		  | [Data Visualization in Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/222ee9a36622cdcc17747c8b3725bf9271382ace/03-Data-Visualization-in-Power-BI)		|
-| 05 		  | [Data Preparation in Power BI]() 		|
+| 05 		  | [Data Preparation in Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/7ee8c51b42de87640fb31fbda2bc1de836a08e0d/05-Data-Preparation-in-Power-BI) 		|
 | 06 		  | [Data Transformation in Power BI]() 																					|
 | 07 		  | [Data Modeling in Power BI]() 				|
 | 08		  | [Intermediate Data Modeling in Power BI]() 																		|
