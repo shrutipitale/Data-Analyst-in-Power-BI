@@ -35,4 +35,5 @@ ___
 ![certificate_page-0001](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/assets/80112581/55d1c20f-ccc9-4f7d-908b-f3163938c110)
 
 **Badge**
+
 ![statement-of-accomplishment](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/assets/80112581/71b0abb6-6d80-455a-8cff-147e331847aa)
