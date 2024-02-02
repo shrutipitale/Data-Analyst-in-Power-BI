@@ -30,3 +30,9 @@ ___
 | 17 		  | [Data Connections in Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/8b2f34bc977626ce6e19c838304e100a96fef04e/17-Data-Connections-in-Power-BI)																							|
 | 18 		  | [Deploying and Maintaining Assets](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/8b2f34bc977626ce6e19c838304e100a96fef04e/18-Deploying-and-Maintaining-Assets)																					|
 ___
+
+**statement-of-accomplishment**
+![certificate_page-0001](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/assets/80112581/55d1c20f-ccc9-4f7d-908b-f3163938c110)
+
+**Badge**
+![statement-of-accomplishment](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/assets/80112581/71b0abb6-6d80-455a-8cff-147e331847aa)
