@@ -27,6 +27,6 @@ ___
 | 13		  | [Trend Analysis in Power BI]() 																            		|
 | 14		  | [Reports in Power BI]() 																		|
 | 15  	  | [Reports Design in Power BI]() 																		|
-| 17 		  | [Data Connections in Power BI]()																							|
-| 18 		  | [Deploying and Maintaining Assets]()																					|
+| 17 		  | [Data Connections in Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/8b2f34bc977626ce6e19c838304e100a96fef04e/17-Data-Connections-in-Power-BI)																							|
+| 18 		  | [Deploying and Maintaining Assets](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/8b2f34bc977626ce6e19c838304e100a96fef04e/18-Deploying-and-Maintaining-Assets)																					|
 ___
