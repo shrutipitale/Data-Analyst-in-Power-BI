@@ -22,7 +22,7 @@ ___
 | 07 		  | [Data Modeling in Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/e988174b4aa45f9c093e50712812fbc346234035/07-Data-Modeling-in-Power-BI) 				|
 | 08		  | [Intermediate Data Modeling in Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/e988174b4aa45f9c093e50712812fbc346234035/07-Data-Modeling-in-Power-BI) 																		|
 | 10 		  | [DAX Functions in Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/e988174b4aa45f9c093e50712812fbc346234035/10-DAX-Functions-in-Power-BI) 																								|
-| 11 		  | [Intermediate DAX in Power BI]() 																							|
+| 11 		  | [Intermediate DAX in Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/5e36b73d78ba396907c9a2af5ef2d91a964ef7a2/11-Intermediate-DAX-in-Power-BI) 																							|
 | 12		  | [Exploratory Data Analysis in Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/e988174b4aa45f9c093e50712812fbc346234035/12-%20Exploratory%20Data%20Analysis%20in%20Power%20BI) 																		|
 | 13		  | [Trend Analysis in Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/e988174b4aa45f9c093e50712812fbc346234035/13-Trend%20Analysis%20in%20Power%20BI) 																            		|
 | 14		  | [Reports in Power BI](https://github.com/shrutipitale/Data-Analyst-in-Power-BI/tree/e988174b4aa45f9c093e50712812fbc346234035/14-Reports%20in%20Power%20BI) 																		|
